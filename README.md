@@ -1,3 +1,4 @@
+![Screenshot from 2021-03-22 01-45-32](https://user-images.githubusercontent.com/73971344/111927387-ce014900-8ab0-11eb-9680-cfe7c104d001.png)
 # WinterTank
 Winter tank is a hobby project.
 Your goal is to reach the base and kill the enemies.
